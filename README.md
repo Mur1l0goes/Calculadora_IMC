@@ -1,1 +1,1 @@
-<img width="1279" height="959" alt="image" src="https://github.com/user-attachments/assets/947a0922-5647-45f7-9efc-13ee389faef1" /># Calculadora_IMC<img width="1279" height="959" alt="image" src="https://github.com/user-attachments/assets/21b15ad4-f3e3-49a4-b494-4e31e531ba46" />
+<img width="1279" height="959" alt="image" src="https://github.com/user-attachments/assets/4319f1f3-802e-4e95-b9ca-01b3e0cc3d2f" />
